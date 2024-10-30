@@ -46,15 +46,15 @@ This project serves as a proof of concept for implementing an OAuth 2.0 Authoriz
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/oauth2-poc.git
-   cd oauth2-poc
+   git clone https://github.com/nsittinger/AuthorizationServer.git
+   cd AuthorizationServer
    ```
 
 2. **Create a Virtual Environment**:
 
    ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `.env\Scriptsctivate`
+   python -m venv myenv
+   source myenv/bin/activate  # On Windows, use `.myenv\Scripts\Activate`
    ```
 
 3. **Install Dependencies**:
